@@ -1,0 +1,14 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background: linear-gradient(135deg, #ac161b 0%, #1249a1 100%);
+  height: 100vh;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  color: azure;
+  font-size: 2rem;
+  text-shadow: 1px 1px 3px rgb(138, 132, 132);
+}
